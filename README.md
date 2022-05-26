@@ -15,4 +15,4 @@ JovannMC – contact@baka.omg.lol<br/>
 [Profile Page](https://baka.omg.lol) – [Discord](https://baka.omg.lol/ssdiscord) – [Trello](https://baka.omg.lol/trello)
 
 ## Release History
-[Release history](releases.md)
+[Release history](RELEASES.md)
