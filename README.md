@@ -15,7 +15,7 @@ Download the latest release from [releases](https://github.com/JovannMC/salad-si
 ## Who?
 
 JovannMC – contact@baka.omg.lol<br/>
-[Profile Page](https://baka.omg.lol) – [Discord](https://baka.omg.lol/ssdiscord) – [Trello](https://baka.omg.lol/trello)
+[Profile Page](https://baka.omg.lol) – [Discord](https://baka.omg.lol/ssdiscord) – [Trello](https://baka.omg.lol/trello)<br/>
 [Credits](CREDITS.md)
 
 ## Release History
