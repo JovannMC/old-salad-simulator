@@ -1,23 +1,16 @@
 # Salad Simulator
-
 Hello! This doesn't contain any code, this repository is just used to host the builds for my game.<br/>
-You should read the `readme.txt` file. <br/><br/>
-**Please don't actually play this game, this is absolutely trash.**
-
-[Credits](CREDITS.md)
+You should read the `readme.txt` file. <br/>
 
 ## What?
-
-Crypto mining simulator sponsored by [Salad](https://salad.com).. not really<br/>
+This game simulates running Salad, a program that allows you to rent out spare computing power to earn money!<br/>
+Use Salad, buy hardware, pay bills, etc.<br/>
 Yeah this is a trash game which barely has any gameplay currently, **please don't play it.**<br/>
 
 ## How?
 Download the latest release from [releases](https://github.com/JovannMC/salad-simulator/releases)
 
 ## Who?
-
-JovannMC – contact@baka.omg.lol<br/>
-[Profile Page](https://baka.omg.lol) – [Discord](https://baka.omg.lol/ssdiscord) – [Trello](https://baka.omg.lol/sstrello)
-
-## Release History
-[Release history](RELEASES.md)
+Hi I'm JovannMC, the idiot who created this game.<br/>
+jovannmc@yeahnet.dev - [Website](https://femboyfurry.net) – [Personal website](https://jovannmc.femboyfurry.net)<br/><br/>
+[Credits](CREDITS.md)
