@@ -1,5 +1,5 @@
-# Salad Simulator
-**This is the old version of Salad Simulator. The new one is [here](https://github.com/JovannMC/salad-simulator/)**<br/>
+# Old Salad Simulator
+**This is the old version of Salad Simulator. The new one is [here.](https://github.com/JovannMC/salad-simulator/)**<br/>
 <br/>
 Hello! This doesn't contain any code, this repository is just used to host the builds for my (old) game.<br/>
 You should read the `readme.txt` file. <br/>
