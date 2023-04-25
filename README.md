@@ -13,5 +13,5 @@ Download the latest release from [releases](https://github.com/JovannMC/old-sala
 
 ## Who?
 Hi I'm JovannMC, the idiot who created this game.<br/>
-jovannmc@yeahnet.dev - [Website](https://femboyfurry.net) – [Personal website](https://jovannmc.femboyfurry.net)<br/><br/>
+contact@femboyfurry,net - [Website](https://femboyfurry.net) – [Personal website](https://jovannmc.femboyfurry.net)<br/><br/>
 [Credits](CREDITS.md)
